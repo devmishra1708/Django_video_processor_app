@@ -38,7 +38,7 @@ The Django Video Processor App is a web application that allows users to upload 
    ```bash
        python manage.py runserver
 
-##Using Docker
+### Using Docker
 6. Build and Run the Docker Containers
 
       ```bash
