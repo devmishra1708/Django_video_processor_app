@@ -47,25 +47,25 @@ The Django Video Processor App is a web application that allows users to upload 
       ```bash
       ffmpeg -i <input_video> -map 0:s:0 <output_subtitle_file>
 
-##Screenshots
-Home page
+# Screenshots
+## Home page
 ![Screenshot 2024-09-15 011723](https://github.com/user-attachments/assets/304c9a92-5dd8-4697-9ced-5cb9c875702f)
-page to upload video
+## Page to upload video
 ![to upload a video ](https://github.com/user-attachments/assets/c5ef8f94-5628-4cc1-b332-b8f4a7658bf9)
-video list page and uploaded video
+## Video list page and uploaded video
 ![uploaded videos](https://github.com/user-attachments/assets/92727b37-39c4-4fde-8e42-daf7b21ad179)
-view video page
+## View video page
 ![view video page](https://github.com/user-attachments/assets/4f7f4cba-d45e-4b64-bb81-26bc28816066)
-subtitles
+## Subtitles
 ![subtitles](https://github.com/user-attachments/assets/1d21d3d1-30a1-4091-8a50-71aac1e899df)
-subtitle option through threedots
+## Subtitle option through threedots
 ![subtitles options](https://github.com/user-attachments/assets/723a2fc3-e247-4f58-9317-9634c2197fa8)
 ![Screenshot 2024-09-15 171136](https://github.com/user-attachments/assets/57b0726f-c2b1-48fe-a82c-86af39dda8fe)
-transcript
+## Transcript
 ![transcript](https://github.com/user-attachments/assets/28be411b-6b6a-4e16-9089-4ca8c4bd3423)
-search and result 
+## Search and result 
 ![search and search result](https://github.com/user-attachments/assets/58fc566e-318f-4bca-a94f-0f8f9df8b359)
-download subtitles .vtt format
+## Download subtitles .vtt format
 ![Screenshot 2024-09-15 171257](https://github.com/user-attachments/assets/304a9fb6-260d-466d-b0c7-c6ab90d86553)
 
 
